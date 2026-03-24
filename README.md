@@ -1,2 +1,2 @@
-# statlad-legal
-statlad-legal
+# betwiser-legal
+betwiser-legal
